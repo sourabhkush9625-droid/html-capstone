@@ -1,0 +1,110 @@
+.container{
+    height:400px;
+    background-color:#A7AAE1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    border-radius: 10px;
+
+}
+
+
+.gravitas-one-regular {
+  font-family: "Gravitas One", serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:100px;
+}
+.text {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+.profile{
+  border-radius: 50%;
+}
+.lower-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #636CCB;
+  border-radius: 10px;
+}
+.introduction{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.intro2{
+  display: flex;
+  gap: 20px;
+
+}
+.education{
+  background-color: #DD0303;
+  border: 3px solid;
+  border-radius: 10px;
+}
+.hobbies{
+  background-color: #FA812F;
+  border: 3px solid;
+  border-radius: 10px;
+}
+.future{
+  background-color: #FEF3E2;
+  border: 3px solid;
+  border-radius: 10px;
+}
+.about{
+  font-size: 50px;
+  display: flex;
+  justify-content: end;
+  align-content: end;
+}
+.line3{
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-top:0px;
+  border: 0px;
+}
+.line4{
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-top:0px;
+  border: 0px;
+}
+.line5{
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-top:0px;
+  border: 0px;
+}
+.line6{
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-top:0px;
+  border: 0px;
+}
+.green{
+  background-color: #67C090;
+  border-radius: 10px;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  background-color:#124170 ;
+  color: aliceblue;
+  border-radius: 10px;
+}
+
+
+
+
